@@ -67,10 +67,10 @@
           <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-          <a id="mejor" href="../../index3.html" class="nav-link">Home</a>
+          <a id="mejor" href="../../index3.html" class="nav-link">Casa</a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-          <a id="mejor" href="#" class="nav-link">Contact</a>
+          <a id="mejor" href="#" class="nav-link">Contacto</a>
         </li>
         <li class="nav-item dropdown" id="cat-carrito" style="display: none;">
           <img src="../img/comprar.png" class="imagen-carrito nav-link dropdown-toggle" href="#" id="navbarDropdown"
